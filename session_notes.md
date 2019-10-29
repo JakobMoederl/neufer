@@ -1,5 +1,8 @@
 # Session Notes for my Neufer Campaign
 
+[<-- Home](index.md)
+
+
 - [Session 1](#13102019---first-session)
 - [Session 2](#18102019---lets-get-into-the-dungeon)
 - [Session 3](#02112019---in-person)
