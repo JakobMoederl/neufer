@@ -1,6 +1,7 @@
 # NPCs
 
  - [Random Names](npc_names.md)
+ - [Statblocks](stats.md)
  
  
  - [Aurelius](aurelius.md) (Enchanter)

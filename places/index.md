@@ -2,7 +2,8 @@
 
 [<-- Home](../index.md)
 
-- [Dureanor](dureano.md) (Königreich)
+- [Duanor](duanor.md) (Königreich)
      - [Aldora](aldora.md) (Haupstadt)
      - [Schnellwasser](schnellwasser.md) (Stadt)
 - [Narlo](narlo.md) (Königreich)
+- [Klinero](klinero.md)(Stadtstaat)
