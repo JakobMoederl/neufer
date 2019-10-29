@@ -15,10 +15,3 @@ epic adventures and quest. See the following links to get started:
 
 ![Neufer Map](neufer.jpg)
 
-## TODO:
- - Information/Text of the notes you found
- - Thinking about where the [Ramastra (Flying City)](lore/ramastra.md)
- and the [parts of the Rarikarra](items/rarikarra.md) are.
- - Planing out the rest of the dungeon.
- - Flesh out [Swiftriver](places/swiftriver.md)
- - Flesh out Main City of Duanor?
