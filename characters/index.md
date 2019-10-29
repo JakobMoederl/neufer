@@ -1,6 +1,8 @@
 # Player Characters
 
-[This is the way back to the main page!](../index.md)
+[<-- Home](../index.md)
+
+
 
  - [Balasar](index.md#balasar)
  - [Biriel](index.md#biriel)
