@@ -13,3 +13,5 @@
 - Aber es gibt noch immer einzelne Stücke die aus dieser Zeit überlebt haben, die an diese Zivilisation und ihre Künste erinnern.
 - Nimad weiß genau, welche macht das Rarikarra wirklich verleiht, aber die Legende und Geschichten schreiben ihm eine Unbeschreibliche macht, wie sie sonst kein Sterblicher erreichen kann zu.
 - Seitdem sind mehrere Reiche entstanden und wieder untergegangen.
+
+
