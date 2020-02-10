@@ -3,6 +3,7 @@
 - [<-- Home](../index.md)
 - [<-- Lore](index.md)
 
+---
 
 - Ein Held/Magier namens [Rama](rama.md) erschuf das [Rarikarra](rarikarra.md), ein mächtiges magisches Artefakt.
 - Mit Hilfe dieses Artefaktes konnte er den Dämonenkönig [Ravana](ravana.md) in einen Grabhügel binden und die [Rakshasa](rakshasa.md) besiegen.

@@ -13,4 +13,5 @@
  - [Richard Sebeck](richard_sebeck.md) - Student in der Universität von [Aldora](../places/aldora.md), forscht über die Träne von Rama.
  - [Auri](auri.md) - Elfen-Magierin welche in den Kellern der Universität von [Aldora](../places/aldora.md) lebt. Freundin von [Richard Sebeck](richard_sebeck.md).
  - [Destinies Edge](destinies_edge.md) - Abenteurergruppe auf der Suche nach dem [Rarikarra](../lore/rarikarra.md).
+ - [Simon Seth](simon.md) - Magier aus Klinero.
 
